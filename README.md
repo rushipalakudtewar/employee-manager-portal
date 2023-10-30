@@ -3,9 +3,14 @@
 
 Common signup page for Employee and Manager (firstName, lastName, gender,
 hobbies)
+
+
 Employee :-
 ● Employee login with email and password(8 to 20 with all characters validation).
 ● Employee will see that they are assigned in department etc.
+
+
+
 Manager :-
 ● Manager login with email and password.
 ● After login manager, Manager will do CRUD for departments like
@@ -16,6 +21,8 @@ soln pvt name, ipangram, facebook, wipro, wallmart this are deptnames).
 assign button.
 ● Manager will see department tables in paginated format where they can see only
 5 data in every page.(Pagination)
+
+
 
 Query list :-
 ● Make a query that retrieves an employee/s who are in IT department and location
